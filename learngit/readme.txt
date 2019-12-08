@@ -2,4 +2,4 @@ Git is a version control system
 Git is free software
 
 Git is a distributed version control system.
-Git is fress software.
+Git is fress software distributed under the GPL
