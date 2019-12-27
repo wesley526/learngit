@@ -4,6 +4,10 @@ Creating a new branch is quick and simple.
 Creating a new branch is quick
 
 Add something in dev branch.
+a work is doing.................
+work is now done.
+
+
 
 deal with a bug, it is OK now.
 
